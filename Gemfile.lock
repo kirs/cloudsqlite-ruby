@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    cloudsqlite-ruby (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+    rake-compiler (1.2.5)
+      rake
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  cloudsqlite-ruby!
+  rake (~> 13.0)
+  rake-compiler
+
+BUNDLED WITH
+   2.4.10
